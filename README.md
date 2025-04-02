@@ -10,5 +10,5 @@ This project runs an R script that analyzes data and makes a plot.
 Click this button to run the project in Binder:  
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/SaantinZ/Activity-4-/main?urlpath=rstudio)
 
-Cite code here: [![DOI](https://zenodo.org/badge/949726601.svg)](https://doi.org/10.5281/zenodo.15127219)
+Cite Release Here: [![DOI](https://zenodo.org/badge/949726601.svg)](https://doi.org/10.5281/zenodo.15127219)
 
